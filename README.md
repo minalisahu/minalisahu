@@ -4,7 +4,7 @@
 ## I'm a PHP Laravel Developer.
 - I'm learning Node Js.
 - I'm working on various project on Laravel.
-- I always find new things to learn and imporve my self.
+- I always find new things to learn and improve my self.
 
 
 ### Contact Me.
