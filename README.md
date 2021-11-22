@@ -11,7 +11,7 @@
 
 <a href="https://github.com/minalisahu"><img src="https://img.icons8.com/nolan/64/github.png" width='50px'/></a>
 <a href="https://www.linkedin.com/in/minali-sahu-4775aa178/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width='50'/></a>
-<a href="mailto: rkb9878@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" width="50"/></a>
+<a href="mailto: minalisahu098@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" width="50"/></a>
 <br>
 
 ### <img src="https://img.icons8.com/nolan/64/wrench.png" width="25"/> Technology and Tools
