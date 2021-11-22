@@ -20,18 +20,21 @@
 ![image](https://img.icons8.com/color/48/000000/css3.png)
 ![image](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![image](https://img.icons8.com/color/48/000000/javascript.png)
-<!-- ![image](https://img.icons8.com/color/48/000000/python.png) -->
-<!-- ![image](https://img.icons8.com/color/48/000000/django.png) -->
 ![image](https://img.icons8.com/officel/40/000000/php-logo.png)
 ![image](https://img.icons8.com/color/48/000000/git.png)
 ![image](https://img.icons8.com/fluent/48/000000/github.png)
 ![image](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
-<!-- ![image](https://img.icons8.com/color/48/000000/mongodb.png) -->
 ![image](https://img.icons8.com/office/48/000000/database.png)
-<!-- ![image](https://img.icons8.com/color/48/000000/linux-mint.png) -->
 ![image](https://img.icons8.com/color/48/000000/ubuntu.png)
-<!-- ![image](https://img.icons8.com/color/40/000000/pycharm.png) -->
 ![image](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
+<!-- ![image](https://img.icons8.com/color/48/000000/python.png) -->
+<!-- ![image](https://img.icons8.com/color/48/000000/django.png) -->
+<!-- ![image](https://img.icons8.com/color/40/000000/pycharm.png) -->
+<!-- ![image](https://img.icons8.com/color/48/000000/linux-mint.png) -->
+<!-- ![image](https://img.icons8.com/color/48/000000/mongodb.png) -->
+
+
+
 
 
 
