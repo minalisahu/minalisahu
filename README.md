@@ -1,16 +1,16 @@
 ### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## I'm a Developer and Teacher.
-- I'm learning Nest js.
-- I'm working on verous project on Django.
+## I'm a Laravel Developer.
+- I'm learning Node Js.
+- I'm working on various project on Laravel.
 - I always find new things to learn and imporve my self.
 
 
 ### Contact Me.
 
 <a href="https://github.com/minalisahu"><img src="https://img.icons8.com/nolan/64/github.png" width='50px'/></a>
-<a href="https://www.linkedin.com/in/rahul-kumar-bharti/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width='50'/></a>
+<a href="https://www.linkedin.com/in/minali-sahu-4775aa178/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width='50'/></a>
 <a href="mailto: rkb9878@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" width="50"/></a>
 <br>
 
