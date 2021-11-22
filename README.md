@@ -16,6 +16,7 @@
 
 ### <img src="https://img.icons8.com/nolan/64/wrench.png" width="25"/> Technology and Tools
 
+![image](https://img.icons8.com/officel/40/000000/laravel-logo.png)
 ![image](https://img.icons8.com/color/48/000000/html-5.png)
 ![image](https://img.icons8.com/color/48/000000/css3.png)
 ![image](https://img.icons8.com/color/48/000000/bootstrap.png)
