@@ -27,10 +27,12 @@
 ![image](https://img.icons8.com/office/48/000000/database.png)
 ![image](https://img.icons8.com/color/48/000000/ubuntu.png)
 ![image](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
+![image](https://img.icons8.com/color/48/000000/linux-mint.png)
+![image](https://img.icons8.com/color/48/000000/angular.png)
+
 <!-- ![image](https://img.icons8.com/color/48/000000/python.png) -->
 <!-- ![image](https://img.icons8.com/color/48/000000/django.png) -->
 <!-- ![image](https://img.icons8.com/color/40/000000/pycharm.png) -->
-<!-- ![image](https://img.icons8.com/color/48/000000/linux-mint.png) -->
 <!-- ![image](https://img.icons8.com/color/48/000000/mongodb.png) -->
 
 
