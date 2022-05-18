@@ -3,7 +3,7 @@
 
 ## I'm a PHP Laravel Developer.
 <!-- - I'm learning angular. -->
-- I'm working on various project on Laravel.
+- I'm working on various project on Laravel and Angular.
 - I always find new things to learn and improve my self.
 
 
