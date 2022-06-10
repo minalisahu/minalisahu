@@ -1,4 +1,4 @@
-### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%">
+### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 
 
 ## I'm a Full Stack Developer.
