@@ -1,7 +1,7 @@
-### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%">
 
 
-## I'm a PHP Laravel Developer.
+## I'm a Full Stack Developer.
 <!-- - I'm learning angular. -->
 - I'm working on various project on Laravel and Angular.
 - I always find new things to learn and improve my self.
