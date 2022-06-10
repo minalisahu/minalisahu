@@ -1,4 +1,4 @@
-### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 
 ## I'm a PHP Laravel Developer.
