@@ -29,7 +29,7 @@
 ![image](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
 ![image](https://img.icons8.com/color/48/000000/linux-mint.png)
 ![image](https://img.icons8.com/color/48/000000/angularjs.png)
-![image]([https://img.icons8.com/color/48/000000/angularjs.png](https://icons8.com/icon/Vra58PN2KmI5/react))
+![image]([[https://img.icons8.com/color/48/000000/angularjs.png](https://icons8.com/icon/Vra58PN2KmI5/react](https://icons8.com/icon/Vra58PN2KmI5/react)))
 <!-- ![image](https://img.icons8.com/color/48/000000/python.png) -->
 <!-- ![image](https://img.icons8.com/color/48/000000/django.png) -->
 <!-- ![image](https://img.icons8.com/color/40/000000/pycharm.png) -->
