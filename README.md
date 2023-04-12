@@ -3,7 +3,7 @@
 
 ## I'm a Developer.
 <!-- - I'm learning angular. -->
-- I'm working on various project on Laravel and Angular.
+- I'm working on various project on Laravel , Angular and React.
 - I always find new things to learn and improve my self.
 
 
