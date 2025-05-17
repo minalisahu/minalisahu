@@ -1,7 +1,7 @@
 ### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 
 
-## I'm a Software Developer.
+## I'm a Senior Software Engineer.
 <!-- - I'm learning angular. -->
 - I'm working on various project on Laravel , Angular and React.
 - I always find new things to learn and improve my self.
@@ -16,6 +16,7 @@
 
 ### <img src="https://img.icons8.com/nolan/64/wrench.png" width="25"/> Technology and Tools
 
+![image](https://img.icons8.com/color/48/000000/python.png)
 ![image](https://img.icons8.com/color/48/000000/html-5.png)
 ![image](https://img.icons8.com/color/48/000000/css3.png)
 ![image](https://img.icons8.com/color/48/000000/bootstrap.png)
@@ -30,7 +31,6 @@
 ![image](https://img.icons8.com/color/48/000000/linux-mint.png)
 ![image](https://img.icons8.com/color/48/000000/angularjs.png)
 ![image](https://img.icons8.com/bubbles/50/null/react.png)
-<!-- ![image](https://img.icons8.com/color/48/000000/python.png) -->
 <!-- ![image](https://img.icons8.com/color/48/000000/django.png) -->
 <!-- ![image](https://img.icons8.com/color/40/000000/pycharm.png) -->
 <!-- ![image](https://img.icons8.com/color/48/000000/mongodb.png) -->
