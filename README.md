@@ -1,10 +1,11 @@
-# 💫 About Me:
+# 💫 About Me
 Software Developer with nearly 6 years of experience, specializing in Python, PHP, and JavaScript development, with expertise in serverless architectures using AWS (Lambda, API Gateway, SAM CLI, CloudFormation). Skilled in Git-based CI/CD, Agile project management, and building efficient, scalable web solutions. Domains worked on include Banking, E-commerce, Travel, and more.
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minalisahu)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@minali.sahu)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,7 +31,7 @@ Software Developer with nearly 6 years of experience, specializing in Python, PH
 ![Azure DevOps](https://img.shields.io/badge/azure--devops-%23007ACC.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=minalisahu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=minalisahu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minalisahu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
