@@ -1,45 +1,35 @@
-### I'm Minali Sahu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
+# 💫 About Me:
+Software Developer with nearly 6 years of experience, specializing in Python, PHP, and JavaScript development, with expertise in serverless architectures using AWS (Lambda, API Gateway, SAM CLI, CloudFormation). Skilled in Git-based CI/CD, Agile project management, and building efficient, scalable web solutions. Domains worked on include Banking, E-commerce, Travel, and more.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minalisahu)
 
-##  I'm a Senior Software Engineer.
-<!-- - I'm learning angular. -->
-- I'm working on various project on Python , Laravel , Angular and React.
-- I always find new things to learn and improve my self.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/azure--devops-%23007ACC.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=minalisahu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=minalisahu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=minalisahu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Contact Me.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<a href="https://github.com/minalisahu"><img src="https://img.icons8.com/nolan/64/github.png" width='50px'/></a>
-<a href="https://www.linkedin.com/in/minali-sahu-4775aa178/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width='50'/></a>
-<a href="mailto: minalisahu098@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" width="50"/></a>
-<br>
-
-### <img src="https://img.icons8.com/nolan/64/wrench.png" width="25"/> Technology and Tools
-
-![image](https://img.icons8.com/color/48/000000/python.png)
-![image](https://img.icons8.com/color/48/000000/django.png)
-![image](https://img.icons8.com/officel/40/000000/php-logo.png)
-![image](https://img.icons8.com/color/48/000000/javascript.png)
-<!-- ![image](https://img.icons8.com/color/40/000000/pycharm.png) -->
-<!-- ![image](https://img.icons8.com/color/48/000000/mongodb.png) -->
-![image](https://img.icons8.com/color/48/000000/html-5.png)
-![image](https://img.icons8.com/color/48/000000/css3.png)
-![image](https://img.icons8.com/color/48/000000/bootstrap.png)
-![image](https://img.icons8.com/color/48/000000/git.png)
-![image](https://img.icons8.com/fluent/48/000000/github.png)
-![image](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
-![image](https://img.icons8.com/office/48/000000/database.png)
-![image](https://img.icons8.com/color/48/000000/ubuntu.png)
-![image](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
-![image](https://img.icons8.com/color/48/000000/linux-mint.png)
-![image](https://img.icons8.com/color/48/000000/angularjs.png)
-![image](https://img.icons8.com/bubbles/50/null/react.png)
-
-
-
-
-
-
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minalisahu&theme=tokyonight)](https://github.com/minalisahu/)
+### 💡 LeetCode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/minalisahu?theme=dark&font=milonga&extension=null)
